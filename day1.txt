@@ -1,2 +1,3 @@
 B23 is learning Git
 We just made our first commit
+Git keep track of changes from the last point you made commit till the current change you make
