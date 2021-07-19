@@ -1,2 +1,5 @@
 Coffee      2.99
-Ceareal     3.99
+Cereal     3.99
+
+Iced Tea     1.99
+Cappuccino   2.99
