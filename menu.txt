@@ -3,3 +3,6 @@ Cereal     3.99
 
 Iced Tea     1.99
 Cappuccino   2.99
+
+Ice cream     1.99
+Milk Shake     3.99
